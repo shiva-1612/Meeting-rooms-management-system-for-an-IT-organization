@@ -87,7 +87,7 @@ const MeetingRooms = [
 const Meeting = [
   {
     id : 1,
-    title : 'Daily Booking',
+    title : 'Daily Standup meeting',
     date : '25/09/2023',
     startTime : "9:00 AM",
     endTime : "6:00 PM",
