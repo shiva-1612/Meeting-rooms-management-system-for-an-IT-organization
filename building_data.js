@@ -88,9 +88,9 @@ const Meeting = [
   {
     id : 1,
     title : 'Quick Books daily stand up',
-    date : '06/13/2019',
-    startTime : "12:00",
-    endTime : "12:00",
+    date : '25/13/2019',
+    startTime : "9:00",
+    endTime : "6:00",
     meetingRoom : 1    
   }
 ]
